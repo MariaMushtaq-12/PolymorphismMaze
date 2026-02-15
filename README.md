@@ -1,5 +1,7 @@
-# PolymorphismMaze
-Objective 
+**PolymorphismMaze**
+
+**Objective**:
+
 The objective of this assignment is to make ourselves more experienced in using OOP con
 cepts, especially polymorphism. You should design a maze game, similar to the previous as
 signment. In this case, the player patrols a discrete map trying to collect treasures while avoid
